@@ -170,9 +170,8 @@ If `data/customer_churn.csv` is not found, a realistic **synthetic dataset of 10
 
 > Add your own screenshots to the `screenshots/` folder and reference them here, e.g.:
 >
-> ![Dashboard Overview](screenshots/overview.png)
-> ![Prediction Page](screenshots/predict.png)
-> ![Model Performance](screenshots/performance.png)
+> ![Dashboard Overview](screenshots/2DB.png)
+> ![Prediction Page](screenshots/1home.png)
 
 ---
 
