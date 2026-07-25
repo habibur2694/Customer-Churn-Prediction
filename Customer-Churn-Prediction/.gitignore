@@ -1,0 +1,61 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Virtual environments ---
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- TensorFlow / Keras ---
+*.h5
+*.ckpt
+*.tfrecord
+logs/
+checkpoints/
+saved_model/
+*.pb
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Project generated artifacts (kept out of version control) ---
+# Comment these out if you want to commit the pretrained model/data.
+# data/*.csv
+# models/*.keras
+# models/*.pkl
+
+# --- Logs ---
+*.log
